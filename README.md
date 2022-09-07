@@ -1,11 +1,11 @@
 # Dating-App-Recommender
 ## Group Members
-* 1. Iain Mosima
-* 2. Benson Muriu
-* 3. Elsie Kiprop
-* 4. Fred Mutuma
-* 5. Peter Kigotho
-* 6. Oscar Karuga
+*  Iain Mosima
+*  Benson Muriu
+*  Elsie Kiprop
+*  Fred Mutuma
+*  Peter Kigotho
+*  Oscar Karuga
 
 ## 1.1 Business Understanding
 With the current generation embracing technology and its applications, many people have become accustomed to the idea of using dating apps. Therefore, Pata Mchumba,  a dating company, has approached us to create a recommendation system for their users to increase the effectiveness of matches based on their preferences. Moreover our recommender will focus mainly on emotional connection rather than physical appearance. 
