@@ -11,7 +11,7 @@
 </ol>
 
 ## 1.1 Business Understanding
-With the current generation embracing technology and its applications, many people have become accustomed to the idea of using dating apps. Therefore, Pata Mchumba,  a dating company, has approached us to create a recommendation system for their users to increase the effectiveness of matches based on their preferences. Moreover our recommender will focus mainly on emotional connection rather than physical appearance. 
+<p> With the current generation embracing technology and its applications, many people have become accustomed to the idea of using dating apps. Therefore, Pata Mchumba,  a dating company, has approached us to create a recommendation system for their users to increase the effectiveness of matches based on their preferences. Moreover our recommender will focus mainly on emotional connection rather than physical appearance.</p>
 
 ## 1.2 Objectives
 ### Main Objective:
@@ -28,26 +28,26 @@ With the current generation embracing technology and its applications, many peop
 ### Column names and description 
 
 <ol>
- <li> age          : </li>
- <li> status       : </li>
- <li> sex          : </li>
- <li> orientation  : </li>
- <li> body_type    : </li>
- <li> diet         : </li>
- <li> drinks       : </li>
-<li>  drugs        : </li>
- <li> education    : </li>
- <li> ethnicity    : </li>
- <li> height       : </li>
- <li> income       : </li>
- <li> job          : </li>
- <li> last_online  : </li>
- <li> location     : </li>
- <li> offspring    : </li>
- <li> pets         : </li>
- <li> religion     : </li>
- <li> sign         : </li>
- <li> smokes       : </li>
+ <li> age          : How old the person is </li>
+ <li> status       : The person's relationship status (e.g. single, divorced, etc.) </li>
+ <li> sex          : The person's biological sex (e.g. male, female, etc.) </li>
+ <li> orientation  : The person's sexual orientation (e.g. straight, gay, etc.) </li>
+ <li> body_type    : The person's body type (e.g. slim, average, etc.) </li>
+ <li> diet         : The person's diet (e.g. vegetarian, non-vegetarian, etc.)</li>
+ <li> drinks       : The person's drinking habits (e.g. social drinker, heavy drinker, etc.)</li>
+<li>  drugs        : The person's drug habits (e.g. never, occasionally, etc.)</li>
+ <li> education    : The person's educational attainment (e.g. high school, college, etc.)</li>
+ <li> ethnicity    : The person's ethnic background (e.g. Hispanic, Asian, etc.)</li>
+ <li> height       : The person's height in inches</li>
+ <li> income       : The person's annual income</li>
+ <li> job          : The person's current job (e.g. doctor, lawyer, etc.)</li>
+ <li> last_online  : The date the person was last active on the website</li>
+ <li> location     : The person's current city</li>
+ <li> offspring    : The person's desire to have children</li>
+ <li> pets         : The person's pet preferences (e.g. dog, cat, etc.)</li>
+ <li> religion     : The person's religious beliefs</li>
+ <li> sign         : The person's astrological sign</li>
+ <li> smokes       : The person's smoking habits (e.g. nonsmoker, occasional smoker, etc.)</li>
 </ol>
 
 <p> essay columns </p>
@@ -64,24 +64,49 @@ With the current generation embracing technology and its applications, many peop
 <li> essay 9: You should message me if... </li>
 </ol>
 
-## 1.4 Data Preparation
+## 1.4 Problem Questions
+<ol>
+ <li> What is the gender distribution of the users? </li>
+ <li> What is the age distribution of the users? </li>
+ <li> What is the orientation distribution of the users? </li>
+ <li> What is the frequency distribution of the consumption of drugs, alcohol and smoking? </li>
+ <li></li>
+</ol> 
+
+## 1.5 Data Preparation
 ### Data cleaning
 #### Validity
 #### Completeness
 #### Consistency
 #### Uniformity
 
-## 1.5 Modelling 
+## 1.6 Modelling 
 
-## 1.6 Evaluation 
+## 1.7 Evaluation 
 
-## 1.7 Conclusions
+## 1.8 Conclusions
 ### EDA
+<ol>
+ <li> Q. What is the gender distribution of the users? </li>
+ <img src="">
+ <p>A. From the above plot majority of the users are male at 60.1% and female follow closely at 39.9%</p>
+ 
+ <li> Q. What is the age distribution of the users? </li>
+ <img src="">
+ <p>A. Majority of the users are between 22 and 35. However there seems to be odd ages on the dating site such as 109.</p>
+ 
+ <li> Q. What is the orientation distribution of the users? </li>
+ <img src="">
+ <p>A. Majority of the users are of the orientation straight. Most of the straight users are male. This is the same case for the gay orientation For the bisexual orientation, majority are female.</p>
+ 
+ <li> Q. What is the frequency distribution of the consumption of drugs, alcohol and smoking? </li>
+ <p>A.</p>
+</ol> 
 
 ### Modelling Conclusions 
 
 
-## 1.8 Recommendations
+## 1.9 Recommendations
 
 
 
