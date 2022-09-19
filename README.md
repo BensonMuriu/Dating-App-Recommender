@@ -96,7 +96,8 @@ https://user-images.githubusercontent.com/71583548/190932190-cfe2122d-d84d-4cb0-
  <li> Q. What is the age distribution of the users? </li>
  <img src="Age.jpeg">
  <p>A. Majority of the users are between 22 and 35. However there seems to be odd ages on the dating site such as 109.</p>
- <img src="AgeGender.jpg">
+ 
+ <img src="AgeperGender.jpg">
  <p>A. Majority of the users of this app are male. Most of them are aged 23 to 28. That same age bracket holds the highest number of female users.</p>
  
  <li> Q. What is the orientation distribution of the users? </li>
