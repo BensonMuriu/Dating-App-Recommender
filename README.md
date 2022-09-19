@@ -74,17 +74,15 @@ https://user-images.githubusercontent.com/71583548/190932190-cfe2122d-d84d-4cb0-
  <li> What is the age distribution of the users? </li>
  <li> What is the orientation distribution of the users? </li>
  <li> What is the frequency distribution of the consumption of drugs, alcohol and smoking? </li>
- <li></li>
 </ol> 
 
 ## 1.5 Data Preparation
 ### Data cleaning
-#### Validity
-#### Completeness
-#### Consistency
-#### Uniformity
+<p>The Dataset had 273202 missing values </p>
+<p> The Dataset had no duplicated values hence it's consistent </p>
 
 ## 1.6 Modelling 
+<p>This final model will be a hybrid one. This will includes the above model and a model that matches users depending on the essays. It is created by checking for sentence similarity in the essays provided by each user.</p>
 
 ## 1.7 Evaluation 
 
@@ -92,27 +90,36 @@ https://user-images.githubusercontent.com/71583548/190932190-cfe2122d-d84d-4cb0-
 ### EDA
 <ol>
  <li> Q. What is the gender distribution of the users? </li>
- <img src="">
+ <img src="Gender.png">
  <p>A. From the above plot majority of the users are male at 60.1% and female follow closely at 39.9%</p>
  
  <li> Q. What is the age distribution of the users? </li>
- <img src="">
+ <img src="Age.jpeg">
  <p>A. Majority of the users are between 22 and 35. However there seems to be odd ages on the dating site such as 109.</p>
- <img src="">
+ <img src="AgeGender.jpg">
  <p>A. Majority of the users of this app are male. Most of them are aged 23 to 28. That same age bracket holds the highest number of female users.</p>
  
  <li> Q. What is the orientation distribution of the users? </li>
- <img src="">
+ <img src="orientation.png">
  <p>A. Majority of the users are of the orientation straight. Most of the straight users are male. This is the same case for the gay orientation For the bisexual orientation, majority are female.</p>
  
  <li> Q. What is the frequency distribution of the consumption of drugs, alcohol and smoking? </li>
  <p>A.</p>
 </ol> 
 
-### Modelling Conclusions 
-
+### Conclusions 
+<ol>
+<li>Majority of the users on dating sites are male.</li>
+<li>On the other hand most of them are of the orientation straight.</li>
+<li>It is evident that most of the people who sort out to using dating apps are young people.Mostly from 23-35 years of age.</li>
+</ol>
 
 ## 1.9 Recommendations
+<ol>
+<li>Words being a way to one's heart makes this system less superficial oriented.</li>
+<li>More personalized matches that replaces the traditional swipe or like to match.</li>
+<li>Dealing with unspecified description in profiles to maximize matches.</li>
+</ol>
 
 
 
