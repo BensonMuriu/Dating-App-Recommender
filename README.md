@@ -74,17 +74,16 @@ https://user-images.githubusercontent.com/71583548/190932190-cfe2122d-d84d-4cb0-
  <li> What is the age distribution of the users? </li>
  <li> What is the orientation distribution of the users? </li>
  <li> What is the frequency distribution of the consumption of drugs, alcohol and smoking? </li>
- <li></li>
 </ol> 
 
 ## 1.5 Data Preparation
 ### Data cleaning
-#### Validity
-#### Completeness
-#### Consistency
-#### Uniformity
+
+<p>The Dataset had 273202 missing values </p>
+<p> The Dataset had no duplicated values hence it's consistent </p>
 
 ## 1.6 Modelling 
+<p>This final model will be a hybrid one. This will includes the above model and a model that matches users depending on the essays. It is created by checking for sentence similarity in the essays provided by each user.</p>
 
 ## 1.7 Evaluation 
 
@@ -109,10 +108,20 @@ https://user-images.githubusercontent.com/71583548/190932190-cfe2122d-d84d-4cb0-
  <p>A.</p>
 </ol> 
 
-### Modelling Conclusions 
-
+### Conclusions 
+<ol>
+<li>Majority of the users on dating sites are male.</li>
+<li>On the other hand most of them are of the orientation straight.</li>
+<li>It is evident that most of the people who sort out to using dating apps are young people.Mostly from 23-35 years of age.</li>
+</ol>
 
 ## 1.9 Recommendations
+
+<ol>
+<li>Words being a way to one's heart makes this system less superficial oriented.</li>
+<li>More personalized matches that replaces the traditional swipe or like to match.</li>
+<li>Dealing with unspecified description in profiles to maximize matches.</li>
+</ol>
 
 
 
